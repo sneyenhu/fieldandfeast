@@ -143,14 +143,14 @@ nav ul{
 	}
  }
 /* MEDIA QUERY (large) */
-media all and (min-width: 900px) {
+@media all and (min-width: 900px) {
 	body {
-		width: auto;
+	  width: auto;
 	}
  }
 /* MEDIA QUERY (xl) */
-media all and (min-width: 1200px) {
+@media all and (min-width: 1200px) {
 	body {
-		width: auto;
+	  width: auto;
 	}
  }
